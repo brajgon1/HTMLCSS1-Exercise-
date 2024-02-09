@@ -1,0 +1,117 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  h1 {
+    color: darkgreen;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+  }
+  
+  h3 {
+    color: #48A562;
+    text-decoration: underline;
+  }
+  
+  h4 {
+    color: #48A562;
+    display: flex;
+    justify-content: center;
+  }
+  div {
+    border: solid;
+    border-color: hotpink;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 5px;
+    margin-left: 150px;
+    margin-right: 150px; 
+  }
+  
+  li {
+    color: #48A562;
+  }
+  
+  body {
+    background-color: darkblue;
+  }
+  
+  li:hover {
+    color: #CF257F;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  h3:hover {
+    color: #CF257F;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  h4:hover {
+    color: #CF257F;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  button {
+    background-color: darkgoldenrod;
+    border: solid;
+    border-color: green;
+    border-radius: 10px;
+    font-size: 10px;
+    margin-bottom: 10px;
+  }
+  
+  button:hover {
+    cursor: pointer;
+    color: yellow;
+    transform: scale(1.1, 1.1);
+  }
+
+  .topOne {
+    border-top: solid;
+    border-color: hotpink;
+  }
+
+  .theCast {
+    height: 120px;
+    width: 100px;
+  }
+
+  .oscarIsaac {
+    height: 120px;
+    width: 100px;
+  }
+
+  .guns {
+    height: 120px;
+    width: 100px;
+  }
+
+  .evilDead {
+    height: 120px;
+    width: 100px;
+  }
+
+  .Email-Sign-Up {
+    background-color: #3c5e9e;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+
+  p {
+    color: #48A562;
+  }
