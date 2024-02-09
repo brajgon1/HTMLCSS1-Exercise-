@@ -22,15 +22,16 @@ html {
     display: flex;
     justify-content: center;
   }
+
   div {
     border: solid;
     border-color: hotpink;
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-evenly;
     margin: 5px;
-    margin-left: 150px;
-    margin-right: 150px; 
+    margin-left: 300px;
+    margin-right: 300px; 
   }
   
   li {
@@ -108,8 +109,8 @@ html {
     border-radius: 20px;
     padding: 10px;
     margin-top: 25px;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 600px;
+    margin-right: 600px;
   }
 
   p {
